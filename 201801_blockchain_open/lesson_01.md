@@ -62,3 +62,5 @@ DPoS = 委托权益证明，长话短说，参考美国的选举人制度。
 链是基础设施，而币只是衍生产品，本质是一种凭证，在不同共识机制下，代表你为维护这个链运行付出的成本（维护一个分布式系统一定是要付出成本的！！！比如挖矿的电力消耗），或者你在这个链里的投票权，类似与BTS（比特股）的机制。大家在投身区块链事业之前，建议好好读一读这篇访谈：[通证(token)是下一代互联网数字经济的关键——元道区块链对话之一](http://blog.csdn.net/myan/article/details/78712506)
 
 ![架构](http://bitcoin-on-nodejs.ebookchain.org/styles/images/third/blockchain_overview.png)
+
+## ![第2课内容](https://github.com/yingl/bc_demo)
